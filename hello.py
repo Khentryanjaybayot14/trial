@@ -1,1 +1,0 @@
-print("     wala ko kasabot")

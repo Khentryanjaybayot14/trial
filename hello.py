@@ -1,1 +1,1 @@
-print("wala ko kasabot")
+print("     wala ko kasabot")

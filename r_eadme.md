@@ -1,1 +1,0 @@
-paki merge leader...try lang nako

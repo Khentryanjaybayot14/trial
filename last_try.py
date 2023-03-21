@@ -1,1 +1,0 @@
-print("inom tag gas ani")
